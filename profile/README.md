@@ -1,4 +1,4 @@
-![Logo](logo.jpg)
+![Kjellkod-Github-logo](https://postimg.cc/DmGrHzJy)
 **Hello there! and welcome to Kjellkod & Co.** 
 
 ![Discord](https://img.shields.io/discord/898567277056778330?color=red&label=discord&style=flat-square) 
